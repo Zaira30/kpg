@@ -8,7 +8,7 @@ DevOps
  - Banco => Mysql
  
  - Possui as tabelas em Migrations
- - Possui Seed para popular as tabelas Users e Products
+ - Possui Seed para popular as tabela Users
  
 Funcionalidades:
  - Autenticação,
