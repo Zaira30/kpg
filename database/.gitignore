@@ -1,0 +1,9 @@
+*.sqlite
+*.sqlite-journal
+/public/storage
+/storage/*.key
+/vendor
+.idea/
+.idea/>
+composer.lock
+.env
